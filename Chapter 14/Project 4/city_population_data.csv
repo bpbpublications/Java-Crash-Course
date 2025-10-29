@@ -1,0 +1,98 @@
+City,State,Country,Population,Area_sq_miles
+New York,NY,USA,8419600,302.6
+Los Angeles,CA,USA,3980400,468.7
+Chicago,IL,USA,2716000,227.6
+Houston,TX,USA,2328000,637.4
+Phoenix,AZ,USA,1690000,517.6
+Philadelphia,PA,USA,1584200,134.2
+San Antonio,TX,USA,1547200,465.4
+San Diego,CA,USA,1424500,325.2
+Dallas,TX,USA,1341000,340.9
+San Jose,CA,USA,1035400,178.3
+Austin,TX,USA,1015400,326.5
+Jacksonville,FL,USA,949600,747.0
+Fort Worth,TX,USA,942300,349.2
+Columbus,OH,USA,907000,219.0
+Charlotte,NC,USA,897700,305.4
+San Francisco,CA,USA,883300,46.9
+Indianapolis,IN,USA,876800,368.0
+Seattle,WA,USA,744900,83.9
+Denver,CO,USA,727200,153.0
+Washington,DC,USA,705700,61.1
+Boston,MA,USA,692600,48.4
+El Paso,TX,USA,681700,256.3
+Nashville,TN,USA,670800,475.0
+Detroit,MI,USA,670000,138.8
+Oklahoma City,OK,USA,655100,620.3
+Portland,OR,USA,654700,133.4
+Las Vegas,NV,USA,651300,141.8
+Memphis,TN,USA,651000,317.4
+Louisville,KY,USA,617700,325.2
+Baltimore,MD,USA,602500,80.9
+Milwaukee,WI,USA,592000,96.8
+Albuquerque,NM,USA,560500,188.9
+Tucson,AZ,USA,548100,226.7
+Fresno,CA,USA,531500,112.3
+Mesa,AZ,USA,518000,138.9
+Sacramento,CA,USA,513600,99.8
+Atlanta,GA,USA,506800,134.0
+Kansas City,MO,USA,495300,319.0
+Colorado Springs,CO,USA,478200,195.0
+Raleigh,NC,USA,474000,145.0
+Miami,FL,USA,470900,55.3
+Omaha,NE,USA,478100,130.6
+Long Beach,CA,USA,466700,50.3
+Virginia Beach,VA,USA,450200,249.0
+Oakland,CA,USA,429100,55.9
+Minneapolis,MN,USA,429600,57.5
+Tulsa,OK,USA,401200,197.3
+Arlington,TX,USA,398100,95.8
+Tampa,FL,USA,399700,113.4
+New Orleans,LA,USA,390100,169.4
+Wichita,KS,USA,389900,163.6
+Toronto,ON,Canada,2732000,243.3
+Montreal,QC,Canada,1705000,166.6
+Vancouver,BC,Canada,631000,44.4
+Calgary,AB,Canada,1239000,318.7
+Edmonton,AB,Canada,981000,264.2
+Ottawa,ON,Canada,994800,1095.0
+Winnipeg,MB,Canada,705000,179.3
+Quebec City,QC,Canada,542298,174.6
+London,ENG,UK,8982000,607.0
+Birmingham,ENG,UK,1141000,103.4
+Glasgow,SCT,UK,633120,68.0
+Manchester,ENG,UK,553230,44.6
+Liverpool,ENG,UK,498042,43.2
+Leeds,ENG,UK,789194,111.6
+Sheffield,ENG,UK,584853,142.1
+Bristol,ENG,UK,463377,42.5
+Newcastle,ENG,UK,300196,44.9
+Edinburgh,SCT,UK,537120,101.9
+Paris,IDF,France,2148000,40.7
+Marseille,PACA,France,861635,92.9
+Lyon,ARA,France,515695,18.5
+Toulouse,OCC,France,479553,45.2
+Nice,PACA,France,341032,28.1
+Berlin,BE,Germany,3769000,344.3
+Hamburg,HH,Germany,1841000,291.6
+Munich,BY,Germany,1472000,120.0
+Cologne,NW,Germany,1086000,156.4
+Frankfurt,HE,Germany,763000,95.9
+Stuttgart,BW,Germany,634800,79.0
+Dusseldorf,NW,Germany,619000,84.2
+Dortmund,NW,Germany,588500,107.2
+Essen,NW,Germany,583100,82.3
+Leipzig,SN,Germany,593000,114.3
+Barcelona,CT,Spain,1636000,39.3
+Madrid,MD,Spain,3266000,233.3
+Valencia,VC,Spain,794000,52.0
+Seville,AN,Spain,703000,54.0
+Zaragoza,AR,Spain,675000,38.5
+Malaga,AN,Spain,578000,153.0
+Bilbao,PV,Spain,345000,17.4
+Rome,LAZ,Italy,2873000,496.3
+Milan,LOM,Italy,1366000,70.0
+Naples,CAM,Italy,967000,46.9
+Turin,PIE,Italy,870000,50.3
+Palermo,SIC,Italy,663000,61.8
+Florence,TOS,Italy,382000,39.5
